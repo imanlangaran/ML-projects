@@ -1,3 +1,5 @@
 # ML-projects
 
-In this repository i'll upload my projects form Machine Learning problems
+In this repository I'll upload my projects of Machine Learning problems
+
+- [boston house pricing](./boston-house-pricing/)
